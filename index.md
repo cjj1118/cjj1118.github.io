@@ -16,14 +16,20 @@
 
 ### 兴趣爱好
 
-摄影 📷
-足球 ⚽
-音乐 🎼
+-摄影 📷
+-足球 ⚽
+-音乐 🎼
 
-### Jekyll Themes
+### 主修课程
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cjj1118/cjj1118.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![刑法、民法、商法、经济法、宪法、法理学、法制史等](https://pic1.zhimg.com/v2-55a8485e0341164544cc08140ad55228_r.jpg)
 
-### Support or Contact
+### 技能及获奖情况
+
+-英语四级证书 get 👩‍🎓
+-企业法律风险防控研修班优秀志愿者 📑
+-百万同题英语写作大赛优秀作品奖 🥇
+
+### 自我评价
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
