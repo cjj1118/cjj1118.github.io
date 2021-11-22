@@ -22,7 +22,7 @@
 
 ### 主修课程
 
-![刑法、民法、商法、经济法、宪法、法理学、法制史等](https://pic1.zhimg.com/v2-55a8485e0341164544cc08140ad55228_r.jpg)
+[刑法、民法、商法、经济法、宪法、法理学、法制史等](https://pic1.zhimg.com/v2-55a8485e0341164544cc08140ad55228_r.jpg)
 
 ### 技能及获奖情况
 
@@ -32,4 +32,4 @@
 
 ### 自我评价
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+勤奋乐观、精力充沛、执行力强，具有良好的沟通交流能力和写作能力。希望能够在大学期间收获满满，不负好时光~
