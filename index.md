@@ -1,8 +1,6 @@
 ## Welcome to Homepage of me
 
-You can use the [editor on GitHub](https://github.com/cjj1118/cjj1118.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+沧海浮云，芸芸众生，有缘相识。
 
 ### Markdown
 
@@ -11,8 +9,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# 个人简介
+- 姓名
+- 性别
+- 破壳日
+- 专业
+## 电子邮件
 ### Header 3
 
 - Bulleted
