@@ -1,34 +1,24 @@
-## Welcome to Homepage of me
+## Welcome to Homepage of me 👍
 
 沧海浮云，芸芸众生，有缘相识。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 个人简介
 
 ```markdown
-Syntax highlighted code block
 
-# 个人简介
-- 姓名
-- 性别
-- 破壳日
-- 专业
-## 电子邮件
-### Header 3
+- 姓名：陈晶晶
+- 性别：女
+- 破壳日：2002.11.18
+- 专业：法学
+- 电子邮件：1846735920@qq.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 兴趣爱好
+
+摄影 📷
+足球 ⚽
+音乐 🎼
 
 ### Jekyll Themes
 
